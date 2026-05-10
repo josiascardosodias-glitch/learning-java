@@ -1,4 +1,3 @@
-```markdown
 # ☕ Java Studies
 
 > Repositório dedicado à minha jornada de aprendizado em Java.
@@ -115,6 +114,4 @@ Estou em constante aprendizado e aberto a aprimorar tanto meus conhecimentos qua
 ## ⭐ Objetivo profissional
 
 Meu objetivo é construir uma base técnica sólida e evoluir de forma consistente até atuar profissionalmente como desenvolvedor de software.
-
 Este repositório representa meu comprometimento com o aprendizado contínuo, a prática diária e a melhoria constante.
-```
